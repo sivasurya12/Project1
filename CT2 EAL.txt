@@ -1,0 +1,2 @@
+EXPLDLIST MSC         482110     E1.0
+CTR      BDL122821130.0222G1F    AEAJMINTUTETAVC N                                            81847
